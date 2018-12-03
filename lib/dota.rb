@@ -6,6 +6,7 @@ require 'dota/version'
 
 require 'dota/utils/mapped'
 require 'dota/utils/inspectable'
+require 'dota/utils/update_data'
 
 require 'dota/api/entity'
 
