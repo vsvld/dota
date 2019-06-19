@@ -4596,3 +4596,180 @@
 9135:
 - special_bonus_unique_pangolier_6
 - "+2s Rolling Thunder Duration"
+6495:
+- mars_gods_rebuke
+- God's Rebuke
+6582:
+- mars_bulwark
+- Bulwark
+6583:
+- mars_spear
+- Spear of Mars
+6584:
+- special_bonus_unique_mars_spear_stun_duration
+- Spear stun lasts +1.5 seconds
+6598:
+- mars_arena_of_blood
+- Arena Of Blood
+6756:
+- special_bonus_unique_mars_gods_rebuke_extra_crit
+- God's Rebuke +80% Crit
+6759:
+- special_bonus_unique_mars_spear_bonus_damage
+- Spear Of Mars +200 Damage
+6766:
+- special_bonus_unique_mars_arena_of_blood_hp_regen
+- Arena Of Blood Grants Team +100 HP Regen
+7380:
+- special_bonus_unique_dragon_knight_5
+- 
+7381:
+- special_bonus_unique_dragon_knight_6
+- 
+7388:
+- special_bonus_unique_faceless_void_5
+- "-1s Time Walk"
+7389:
+- special_bonus_unique_medusa_5
+- "-4s Mystic Snake Cooldown"
+7390:
+- special_bonus_unique_invoker_10
+- "-30s Ghost Walk Cooldown"
+7394:
+- special_bonus_unique_juggernaut_4
+- "+50 Blade Fury Movement Speed"
+7395:
+- special_bonus_unique_legion_commander_5
+- 350 AoE Press The Attack
+7396:
+- special_bonus_unique_sniper_5
+- "+20% Shrapnel Slow"
+7398:
+- special_bonus_unique_keeper_of_the_light_4
+- "+1 Will-O-Wisp Health Count"
+7401:
+- special_bonus_spell_amplify_14
+- "+14% Spell Amplification"
+7670:
+- special_bonus_cleave_175
+- special_bonus_cleave_175
+7804:
+- seasonal_throw_snowball
+- 
+7806:
+- seasonal_summon_snowman
+- 
+7807:
+- seasonal_decorate_tree
+- 
+7809:
+- seasonal_festive_firework
+- 
+7810:
+- frostivus2018_throw_snowball
+- 
+7812:
+- frostivus2018_summon_snowman
+- 
+7813:
+- frostivus2018_decorate_tree
+- 
+7815:
+- frostivus2018_festive_firework
+- 
+7816:
+- consumable_hidden
+- 
+7817:
+- seasonal_summon_cny_balloon
+- 
+7818:
+- seasonal_summon_dragon
+- 
+7819:
+- seasonal_summon_cny_tree
+- 
+7820:
+- seasonal_firecrackers
+- 
+7821:
+- seasonal_summon_ti9_balloon
+- 
+7822:
+- seasonal_ti9_banner
+- 
+7823:
+- seasonal_ti9_instruments
+- 
+7824:
+- seasonal_ti9_shovel
+- 
+7825:
+- seasonal_ti9_monkey
+- 
+7850:
+- tiny_tree_channel
+- 
+7851:
+- spectre_haunt_single
+- 
+7852:
+- grimstroke_scepter
+- 
+7853:
+- templar_assassin_trap_teleport
+- 
+7854:
+- arc_warden_scepter
+- 
+7855:
+- clinkz_scepter
+- 
+7859:
+- special_bonus_unique_dark_willow_3
+- special_bonus_unique_dark_willow_3
+7861:
+- special_bonus_unique_terrorblade_4
+- 
+7864:
+- slardar_scepter
+- 
+7865:
+- troll_warlord_scepter
+- 
+7869:
+- special_bonus_unique_chen_5
+- special_bonus_unique_chen_5
+7871:
+- special_bonus_unique_slardar_4
+- special_bonus_unique_slardar_4
+7873:
+- special_bonus_mp_regen_250
+- special_bonus_mp_regen_250
+7878:
+- special_bonus_unique_clinkz_4
+- 
+7888:
+- special_bonus_unique_windranger_7
+- 
+7889:
+- special_bonus_unique_windranger_8
+- special_bonus_unique_windranger_8
+7890:
+- special_bonus_unique_windranger_9
+- special_bonus_unique_windranger_9
+7891:
+- special_bonus_unique_tusk_6
+- special_bonus_unique_tusk_6
+7892:
+- special_bonus_unique_sniper_6
+- 
+7936:
+- special_bonus_unique_storm_spirit_6
+- "+30 Overload Damage"
+7968:
+- high_five
+- 
+9391:
+- special_bonus_unique_pangolier_7
+- "+300 Swashbuckle Slash Range"
