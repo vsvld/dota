@@ -877,10 +877,10 @@
 - Kaya
 275:
 - trident
-- 
+-
 276:
 - combo_breaker
-- 
+-
 260:
 - refresher_shard
 - Refresher Shard
@@ -914,3 +914,189 @@
 271:
 - ultimate_scepter_2
 - Aghanim's Scepter (Consumable)
+349:
+- arcane_ring
+- Arcane Ring
+355:
+- broom_handle
+- Broom Handle
+302:
+- elixir
+- Elixir
+375:
+- faded_broach
+- Faded Broach
+287:
+- kenn_optic
+- Keen Optic
+328:
+- mango_tree
+- Mango Tree
+354:
+- ocean_heart
+- Ocean Heart
+305:
+- royal_jelly
+- Royal Jelly
+356:
+- trusty_shovel
+- Trusty Shovel
+303:
+- recipe_ironwood_tree
+- Recipe Ironwood Tree
+304:
+- ironwood_tree
+- Ironwood Tree
+360:
+- clumsy_net
+- Clumsy Net
+358:
+- dragon_scale
+- Dragon Scale
+359:
+- essence_ring
+- Essence Ring
+288:
+- grove_bow
+- Grove Bow
+334:
+- imp_claw
+- Imp Claw
+357:
+- nether_shawl
+- Nether Shawl
+290:
+- philosophers_stone
+- Philosopher's Stone
+306:
+- pupils_gift
+- Pupil's Gift
+297:
+- vampire_fangs
+- Vampire Fangs
+329:
+- recipe_vambrace
+- 'Recipe: Vambrace'
+331:
+- vambrace
+- Vambrace
+298:
+- craggy_coat
+- Craggy Coat
+361:
+- enchanted_quiver
+- Enchanted Quiver
+299:
+- greater_faerie_fire
+- Greater Faerie Fire
+327:
+- helm_of_the_undying
+- Helm of the Undying
+309:
+- mind_breaker
+- Mind Breaker
+378:
+- orb_of_destruction
+- Orb of Destruction
+376:
+- paladin_sword
+- Paladin Sword
+289:
+- quickening_charm
+- Quickening Charm
+308:
+- repair_kit
+- Repair Kit
+326:
+- spider_legs
+- Spider Legs
+310:
+- third_eye
+- Third Eye
+381:
+- titan_sliver
+- Titan Sliver
+335:
+- item_flicker
+- Flicker
+364:
+- havoc_hammer
+- Havoc Hammer
+363:
+- illusionsts_cape
+- Illusionist's Cape
+365:
+- panic_button
+- Magic Lamp
+377:
+- minotaur_horn
+- Minotaur Horn
+362:
+- ninja_gear
+- Ninja Gear
+325:
+- princes_knife
+- Prince's Knife
+311:
+- spell_prism
+- Spell Prism
+336:
+- spy_gadget
+- Telescope
+379:
+- the_leveller
+- he Leveller
+300:
+- timeless_relic
+- Timeless Relic
+330:
+- witless_shako
+- Witless Shako
+366:
+- apex
+- Apex
+367:
+- ballista
+- Ballista
+370:
+- demonicon
+- Book of the Dead
+374:
+- ex_machina
+- Ex Machina
+291:
+- force_boots
+- Force Boots
+313:
+- fusion_rune
+- Fusion Rune
+301:
+- mirror_shield
+- Mirror Shield
+293:
+- phoenix_ash
+- Phoenix Ash
+372:
+- pirate_hat
+- Pirate Hat
+294:
+- seer_stone
+- Seer Stone
+292:
+- desolator_2
+- Stygian Desolator
+368:
+- woodland_striders
+- Woodland Striders
+317:
+- recipe_fallen_sky
+- 'Recipe: Fallen Sky'
+371:
+- fallen_sky
+- Fallen Sky
+369:
+- trident
+- Trident
+275:
+- recipe_trident
+- 'Recipe: Trident'
