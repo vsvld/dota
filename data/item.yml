@@ -876,11 +876,11 @@
 - kaya
 - Kaya
 275:
-- trident
--
+- recipe_trident
+- 'Recipe: Trident'
 276:
 - combo_breaker
--
+- 
 260:
 - refresher_shard
 - Refresher Shard
@@ -1097,6 +1097,18 @@
 369:
 - trident
 - Trident
-275:
-- recipe_trident
-- 'Recipe: Trident'
+286:
+- flying_courier
+- Flying Courier
+295:
+- greater_mango
+- Greater Mango
+307:
+- tome_of_aghanim
+- Tome of Aghanim
+312:
+- horizon
+- Horizon
+373:
+- dimensional_doorway
+- Dimensional Doorway

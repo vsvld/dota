@@ -9,6 +9,7 @@ module Dota
       HEROES_URL = 'https://api.opendota.com/api/heroes'.freeze
       ABILITY_IDS_URL = 'https://raw.githubusercontent.com/odota/dotaconstants/master/build/ability_ids.json'.freeze
       ABILITIES_URL = 'http://www.dota2.com/jsfeed/abilitydata'.freeze
+      NPC_ABILITIES_URL = 'https://raw.githubusercontent.com/dotabuff/d2vpkr/master/dota/scripts/npc/npc_abilities.json'.freeze
       ITEMS_DATA_FILE = 'data/item.yml'.freeze
       HEROES_DATA_FILE = 'data/hero.yml'.freeze
       ABILITIES_DATA_FILE = 'data/ability.yml'.freeze
@@ -55,21 +56,31 @@ module Dota
 
         escaped_abilities_url = URI.escape(ABILITIES_URL)
         escaped_ability_ids_url = URI.escape(ABILITY_IDS_URL)
+        escaped_npc_ability_url = URI.escape(NPC_ABILITIES_URL)
         abilities_uri = URI.parse(escaped_abilities_url)
         ability_ids_uri = URI.parse(escaped_ability_ids_url)
+        npc_abilities_uri = URI.parse(escaped_npc_ability_url)
         abilities_res = Net::HTTP.get_response(abilities_uri)
         ability_ids_res = Net::HTTP.get_response(ability_ids_uri)
+        npc_abilities_res = Net::HTTP.get_response(npc_abilities_uri)
 
         if abilities_res.is_a?(Net::HTTPSuccess) && ability_ids_res.is_a?(Net::HTTPSuccess)
           file_url = File.join(Dota.root, ABILITIES_DATA_FILE)
           abilities_yml = YAML::load_file(file_url)
           abilities = JSON.parse(abilities_res.body)
           ability_ids = JSON.parse(ability_ids_res.body)
+          npc_abilities = JSON.parse(npc_abilities_res.body)
 
           ability_ids.each do |ability_id, ability_name|
             next if abilities_yml.dig(ability_id.to_i)
 
             localized_name = abilities.dig('abilitydata', ability_name, 'dname')
+            if localized_name&.include?('{s:value}')
+              ability_special = npc_abilities.dig('DOTAAbilities', ability_name, 'AbilitySpecial')&.first
+
+              bonus_value = ability_special ? ability_special['value'] : ''
+              localized_name.gsub!('{s:value}', bonus_value.to_s)
+            end
             abilities_yml[ability_id.to_i] = [ability_name, localized_name]
           end
 

@@ -4773,3 +4773,210 @@
 9391:
 - special_bonus_unique_pangolier_7
 - "+300 Swashbuckle Slash Range"
+296:
+- tiny_craggy_exterior
+- 
+314:
+- lone_druid_entangling_claws
+- 
+315:
+- special_bonus_unique_invoker_11
+- "+2 Forged Spirit Armor Reduction"
+316:
+- riki_permanent_invisibility
+- 
+318:
+- special_bonus_unique_lich_5
+- Chain Frost Unlimited Bounces
+319:
+- kunkka_torrent_storm
+- 
+320:
+- enchantress_bunny_hop
+- 
+321:
+- rattletrap_overclocking
+- 
+322:
+- pudge_eject
+- 
+323:
+- special_bonus_unique_vengeful_spirit_7
+- Vengeance Aura Illusion Casts Spells
+324:
+- special_bonus_unique_earth_spirit_4
+- "+300 Rolling Boulder Distance"
+332:
+- special_bonus_unique_pudge_5
+- "-5 Meat Hook Cooldown"
+333:
+- lycan_wolf_bite
+- 
+337:
+- luna_lunar_grace
+- 
+338:
+- treant_natures_grasp
+- Nature's Grasp
+339:
+- special_bonus_unique_treant_8
+- "+60 Living Armor Heal"
+340:
+- special_bonus_unique_treant_9
+- "+30 Nature's Grasp Damage"
+341:
+- special_bonus_unique_treant_10
+- Gains Tree Walking
+342:
+- special_bonus_unique_treant_11
+- 100 DPS Overgrowth
+344:
+- special_bonus_exp_boost_50
+- "+50% XP Gain"
+345:
+- special_bonus_unique_clinkz_6
+- "+350 Death Pact Health"
+346:
+- special_bonus_unique_enigma_4
+- "+200 Eidolon Attack Range"
+347:
+- special_bonus_unique_riki_6
+- "-7 Tricks of the Trade Cooldown"
+348:
+- special_bonus_unique_puck_5
+- Phase Shift Attack
+350:
+- special_bonus_unique_necrophos_5
+- "+40 Heartstopper Regen Reduction"
+351:
+- special_bonus_unique_alchemist_6
+- "+60 Chemical Rage Movement Speed"
+353:
+- special_bonus_unique_ember_spirit_6
+- "+60 Sleight of Fist Hero Damage"
+382:
+- special_bonus_unique_snapfire_6
+- Lil' Shredder Uses Your Attack Damage
+384:
+- special_bonus_unique_snapfire_7
+- "+60 Scatterblast Damage"
+5978:
+- special_bonus_strength_13
+- special_bonus_strength_13
+6470:
+- void_spirit_dissimilate
+- Dissimilate
+6479:
+- special_bonus_unique_snapfire_5
+- Firesnap Cookie Restores 250 Health
+6480:
+- snapfire_scatterblast
+- Scatterblast
+6482:
+- snapfire_mortimer_kisses
+- Mortimer Kisses
+6483:
+- snapfire_firesnap_cookie
+- Firesnap Cookie
+6485:
+- special_bonus_unique_snapfire_1
+- "+8 Mortimer Kisses Launched"
+6487:
+- special_bonus_unique_snapfire_2
+- 
+6488:
+- snapfire_lil_shredder
+- Lil' Shredder
+6489:
+- special_bonus_unique_snapfire_3
+- Scatterblast Applies 3.0s Disarm
+6490:
+- special_bonus_unique_snapfire_4
+- "+25% Mortimer Kisses Movement Slow"
+6991:
+- special_bonus_unique_axe_4
+- 
+7701:
+- void_spirit_aether_remnant
+- Aether Remnant
+7705:
+- void_spirit_astral_step
+- Astral Step
+7706:
+- special_bonus_unique_void_spirit_1
+- "-7 Astral Step Charge Restore Time"
+7707:
+- special_bonus_unique_void_spirit_2
+- 
+7708:
+- special_bonus_unique_void_spirit_3
+- Dissimilate Stuns for 3.0s
+7709:
+- special_bonus_unique_void_spirit_4
+- "+100 Resonant Pulse Damage"
+7710:
+- void_spirit_resonant_pulse
+- Resonant Pulse
+7711:
+- special_bonus_unique_void_spirit_5
+- 
+7712:
+- special_bonus_unique_void_spirit_6
+- 
+7713:
+- special_bonus_unique_void_spirit_7
+- Remnant Provides 600 Truesight
+7714:
+- special_bonus_unique_void_spirit_8
+- Astral Step 200% Crit
+7715:
+- special_bonus_unique_void_spirit_9
+- 
+7826:
+- courier_queue_pickup_from_stash
+- 
+7827:
+- courier_dequeue_pickup_from_stash
+- 
+7893:
+- special_bonus_attack_speed_175
+- "+175 Attack Speed"
+7894:
+- special_bonus_unique_chen_6
+- "-40s Divine Favor Cooldown"
+7895:
+- special_bonus_unique_clinkz_5
+- "-30s Burning Army Cooldown"
+7896:
+- special_bonus_lifesteal_40
+- 
+7897:
+- special_bonus_unique_wisp_7
+- 
+7898:
+- special_bonus_unique_tinker_4
+- 
+7899:
+- special_bonus_cleave_35
+- 
+7911:
+- special_bonus_unique_windranger_10
+- 
+8005:
+- special_bonus_gold_income_210
+- 
+8010:
+- special_bonus_unique_drow_ranger_5
+- "+50% Gust Blind"
+8011:
+- special_bonus_lifesteal_35
+- 35% Lifesteal
+8017:
+- special_bonus_attack_damage_160
+- 
+8018:
+- special_bonus_mana_reduction_11
+- "+11% Manacost/Manaloss Reduction"
+343:
+- drow_ranger_multishot
+- Multishot
