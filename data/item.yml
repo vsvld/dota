@@ -880,7 +880,7 @@
 - 'Recipe: Trident'
 276:
 - combo_breaker
-- 
+-
 260:
 - refresher_shard
 - Refresher Shard
@@ -921,13 +921,13 @@
 - broom_handle
 - Broom Handle
 302:
-- elixir
+- elixer
 - Elixir
 375:
 - faded_broach
 - Faded Broach
 287:
-- kenn_optic
+- keen_optic
 - Keen Optic
 328:
 - mango_tree
@@ -1017,7 +1017,7 @@
 - titan_sliver
 - Titan Sliver
 335:
-- item_flicker
+- flicker
 - Flicker
 364:
 - havoc_hammer
