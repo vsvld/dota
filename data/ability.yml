@@ -4980,3 +4980,561 @@
 343:
 - drow_ranger_multishot
 - Multishot
+393:
+- roshan_halloween_levels
+- 
+394:
+- roshan_halloween_summon
+- 
+395:
+- roshan_halloween_fireball
+- 
+401:
+- special_bonus_unique_lion_5
+- 
+402:
+- special_bonus_unique_nyx_4
+- "+0.25s Impale Stun Duration"
+403:
+- special_bonus_unique_ogre_magi_4
+- "+16 Ignite DPS"
+404:
+- special_bonus_unique_omniknight_5
+- "+10 Heavenly Grace HP Regen"
+405:
+- special_bonus_unique_oracle_5
+- "-1.0s Purifying Flames Cooldown"
+406:
+- special_bonus_unique_phoenix_6
+- "+18% Icarus Dive Slow"
+407:
+- special_bonus_unique_puck_6
+- "+300 Waning Rift AoE and Range"
+408:
+- special_bonus_unique_pudge_6
+- "+0.8s Dismember Duration"
+409:
+- special_bonus_attack_speed_55
+- 
+410:
+- special_bonus_unique_silencer_6
+- "+20% Arcane Curse Slow"
+411:
+- special_bonus_unique_skywrath_6
+- Arcane Bolt Pierces Spell Immunity
+412:
+- special_bonus_unique_techies_5
+- "-22s Blast Off! Cooldown"
+413:
+- special_bonus_unique_tinker_5
+- "+2.5s March of the Machines Duration"
+414:
+- special_bonus_unique_tusk_7
+- "+0.4s Walrus Punch Stun Duration"
+416:
+- special_bonus_unique_venomancer_7
+- "+15s Plague Ward Duration"
+417:
+- special_bonus_unique_witch_doctor_6
+- "+80 Maledict AoE"
+418:
+- special_bonus_unique_winter_wyvern_5
+- "+1.0% Cold Embrace Heal"
+419:
+- juggernaut_swift_slash
+- 
+420:
+- special_bonus_unique_dark_seer_5
+- "+75 Ion Shell Radius"
+421:
+- special_bonus_unique_keeper_of_the_light_5
+- "-2.5s Blinding Light Cooldown"
+422:
+- special_bonus_unique_keeper_of_the_light_6
+- "+150 Will-O-Wisp AOE"
+423:
+- special_bonus_unique_lone_druid_11
+- "+25 Spirit Bear Movement Speed"
+424:
+- special_bonus_unique_ursa_7
+- "+3 Overpower Attacks"
+425:
+- terrorblade_terror_wave
+- 
+426:
+- special_bonus_unique_phoenix_7
+- Sun Ray During Supernova
+427:
+- special_bonus_attack_damage_75
+- 
+428:
+- special_bonus_cooldown_reduction_6
+- 
+429:
+- special_bonus_hp_475
+- "+475 Health"
+430:
+- special_bonus_cast_range_325
+- 
+431:
+- special_bonus_evasion_40
+- 40% Evasion
+432:
+- special_bonus_lifesteal_8
+- 8% Lifesteal
+433:
+- special_bonus_lifesteal_12
+- 12% Lifesteal
+434:
+- special_bonus_spell_lifesteal_12
+- 12% Spell Lifesteal
+435:
+- special_bonus_agility_80
+- "+80 Agility"
+436:
+- special_bonus_mana_break_15
+- 
+437:
+- special_bonus_strength_11
+- "+11 Strength"
+438:
+- special_bonus_mp_275
+- 
+439:
+- special_bonus_corruption_25
+- 
+440:
+- special_bonus_mana_reduction_11
+- 
+441:
+- special_bonus_spell_lifesteal_25
+- 25% Spell Lifesteal
+442:
+- special_bonus_attack_damage_80
+- "+80 Damage"
+443:
+- special_bonus_cast_range_225
+- 
+444:
+- special_bonus_spell_amplify_11
+- "+11% Spell Amplification"
+445:
+- special_bonus_30_crit_2
+- 
+446:
+- special_bonus_agility_5
+- 
+447:
+- special_bonus_strength_16
+- "+16 Strength"
+448:
+- special_bonus_spell_block_18
+- "{s:block_cooldown}s Spell Block"
+449:
+- special_bonus_reincarnation_300
+- Gains Reincarnation 300 CD
+450:
+- special_bonus_attack_base_damage_25
+- 
+451:
+- special_bonus_evasion_8
+- 
+452:
+- special_bonus_evasion_16
+- 16% Evasion
+453:
+- special_bonus_unique_centaur_5
+- "-20s Stampede Cooldown"
+454:
+- special_bonus_agility_7
+- 
+455:
+- special_bonus_cleave_140
+- 
+456:
+- special_bonus_spell_amplify_16
+- "+16% Spell Amplification"
+457:
+- special_bonus_night_vision_800
+- 
+458:
+- special_bonus_hp_650
+- "+650 Health"
+459:
+- special_bonus_unique_doom_7
+- "+2.0 Doom Duration"
+460:
+- special_bonus_attack_damage_200
+- "+200 Damage"
+461:
+- special_bonus_unique_enigma_6
+- "+0.35s Malefice Stun Duration"
+462:
+- special_bonus_unique_huskar_6
+- "+40% Berserker's Blood Regen"
+463:
+- special_bonus_unique_legion_commander_6
+- "-6.0s Overwhelming Odds Cooldown"
+464:
+- special_bonus_unique_lifestealer_4
+- 
+465:
+- special_bonus_unique_lion_6
+- "+15% Mana Drain Slow"
+466:
+- special_bonus_unique_mars_spear_cooldown
+- "-3.0s Spear Cooldown"
+467:
+- special_bonus_hp_450
+- "+450 Health"
+468:
+- special_bonus_unique_shadow_shaman_6
+- "+140 Shackles Total Damage"
+469:
+- special_bonus_strength_18
+- "+18 Strength"
+470:
+- special_bonus_unique_furion_5
+- "+25 Wrath of Nature Base Damage"
+471:
+- special_bonus_unique_oracle_6
+- "-20.0s False Promise Cooldown"
+472:
+- special_bonus_unique_omniknight_6
+- "-2.0s Purification Cooldown"
+474:
+- special_bonus_unique_riki_7
+- "+125 Smoke Screen AoE"
+475:
+- special_bonus_unique_sand_king_4
+- 40% Sand Storm Slow and Blind
+476:
+- special_bonus_unique_bane_5
+- "-3.0s Nightmare Cooldown"
+477:
+- special_bonus_unique_wraith_king_9
+- "-1.0s Wraithfire Blast Cooldown"
+478:
+- special_bonus_attack_speed_110
+- "+110 Attack Speed"
+479:
+- special_bonus_unique_terrorblade_5
+- "+8s Conjure Image Duration"
+480:
+- special_bonus_unique_night_stalker_3
+- 
+481:
+- special_bonus_attack_range_275
+- 
+482:
+- special_bonus_unique_bloodseeker_5
+- special_bonus_unique_bloodseeker_5
+483:
+- special_bonus_unique_phantom_assassin_4
+- "+100% Coup de Grace Critical Damage"
+484:
+- special_bonus_unique_bounty_hunter_4
+- special_bonus_unique_bounty_hunter_4
+486:
+- special_bonus_unique_drow_ranger_6
+- special_bonus_unique_drow_ranger_6
+487:
+- special_bonus_attack_damage_16
+- special_bonus_attack_damage_16
+488:
+- special_bonus_attack_damage_18
+- 
+489:
+- special_bonus_agility_and_intelligence_6
+- 
+490:
+- special_bonus_unique_phantom_assassin_6
+- special_bonus_unique_phantom_assassin_6
+491:
+- special_bonus_unique_phantom_assassin_5
+- 
+492:
+- special_bonus_unique_troll_warlord_5
+- special_bonus_unique_troll_warlord_5
+493:
+- special_bonus_unique_vengeful_spirit_8
+- special_bonus_unique_vengeful_spirit_8
+494:
+- special_bonus_unique_clinkz_7
+- 
+495:
+- special_bonus_unique_clinkz_8
+- special_bonus_unique_clinkz_8
+496:
+- special_bonus_attack_base_damage_20
+- special_bonus_attack_base_damage_20
+497:
+- special_bonus_unique_sand_king_6
+- special_bonus_unique_sand_king_6
+498:
+- special_bonus_unique_sand_king_7
+- special_bonus_unique_sand_king_7
+499:
+- special_bonus_unique_lifestealer_5
+- special_bonus_unique_lifestealer_5
+500:
+- special_bonus_unique_snapfire_8
+- special_bonus_unique_snapfire_8
+501:
+- special_bonus_unique_omniknight_7
+- special_bonus_unique_omniknight_7
+502:
+- special_bonus_unique_clockwerk_5
+- special_bonus_unique_clockwerk_5
+503:
+- special_bonus_unique_night_stalker_5
+- special_bonus_unique_night_stalker_5
+504:
+- special_bonus_unique_slardar_5
+- special_bonus_unique_slardar_5
+505:
+- special_bonus_unique_night_stalker_4
+- special_bonus_unique_night_stalker_4
+506:
+- special_bonus_unique_beastmaster_5
+- special_bonus_unique_beastmaster_5
+507:
+- special_bonus_unique_pudge_7
+- 
+508:
+- special_bonus_unique_grimstroke_6
+- special_bonus_unique_grimstroke_6
+509:
+- special_bonus_unique_leshrac_5
+- special_bonus_unique_leshrac_5
+510:
+- special_bonus_unique_chaos_knight_5
+- special_bonus_unique_chaos_knight_5
+511:
+- special_bonus_spell_amplify_9
+- special_bonus_spell_amplify_9
+512:
+- special_bonus_unique_batrider_4
+- special_bonus_unique_batrider_4
+513:
+- special_bonus_unique_dark_seer_6
+- special_bonus_unique_dark_seer_6
+514:
+- special_bonus_unique_dark_willow_5
+- special_bonus_unique_dark_willow_5
+515:
+- special_bonus_unique_dark_willow_6
+- special_bonus_unique_dark_willow_6
+516:
+- special_bonus_unique_leshrac_6
+- special_bonus_unique_leshrac_6
+517:
+- special_bonus_unique_disruptor_7
+- special_bonus_unique_disruptor_7
+518:
+- special_bonus_unique_rubick_6
+- special_bonus_unique_rubick_6
+519:
+- special_bonus_unique_skywrath_7
+- 
+520:
+- special_bonus_unique_enigma_7
+- special_bonus_unique_enigma_7
+521:
+- special_bonus_unique_enigma_8
+- special_bonus_unique_enigma_8
+522:
+- special_bonus_spell_amplify_7
+- 
+523:
+- special_bonus_unique_clinkz_10
+- special_bonus_unique_clinkz_10
+526:
+- special_bonus_unique_jakiro_6
+- special_bonus_unique_jakiro_6
+527:
+- special_bonus_unique_keeper_of_the_light_7
+- special_bonus_unique_keeper_of_the_light_7
+530:
+- special_bonus_unique_lich_6
+- special_bonus_unique_lich_6
+531:
+- special_bonus_unique_lich_7
+- special_bonus_unique_lich_7
+540:
+- special_bonus_unique_lion_7
+- special_bonus_unique_lion_7
+541:
+- special_bonus_unique_lion_8
+- special_bonus_unique_lion_8
+544:
+- special_bonus_unique_oracle_7
+- special_bonus_unique_oracle_7
+548:
+- special_bonus_attack_base_damage_50
+- special_bonus_attack_base_damage_50
+554:
+- special_bonus_unique_clinkz_9
+- special_bonus_unique_clinkz_9
+555:
+- special_bonus_unique_witch_doctor_7
+- special_bonus_unique_witch_doctor_7
+556:
+- special_bonus_unique_underlord_5
+- special_bonus_unique_underlord_5
+557:
+- special_bonus_unique_underlord_6
+- special_bonus_unique_underlord_6
+558:
+- special_bonus_unique_tiny_6
+- special_bonus_unique_tiny_6
+559:
+- special_bonus_unique_phantom_assassin_7
+- special_bonus_unique_phantom_assassin_7
+560:
+- special_bonus_unique_dark_seer_7
+- special_bonus_unique_dark_seer_7
+562:
+- special_bonus_unique_axe_5
+- special_bonus_unique_axe_5
+563:
+- special_bonus_unique_phantom_lancer_5
+- special_bonus_unique_phantom_lancer_5
+564:
+- special_bonus_unique_phantom_lancer_6
+- special_bonus_unique_phantom_lancer_6
+567:
+- special_bonus_unique_razor_5
+- 
+568:
+- special_bonus_cooldown_reduction_14
+- special_bonus_cooldown_reduction_14
+583:
+- special_bonus_unique_clinkz_11
+- special_bonus_unique_clinkz_11
+584:
+- special_bonus_attack_range_325
+- special_bonus_attack_range_325
+586:
+- special_bonus_unique_razor_6
+- special_bonus_unique_razor_6
+587:
+- windrunner_focusfire_cancel
+- 
+4000:
+- seasonal_ti10_high_five
+- 
+4001:
+- seasonal_ti10_guild_banner
+- 
+6484:
+- snapfire_gobble_up
+- 
+6486:
+- snapfire_spit_creep
+- 
+7651:
+- special_bonus_unique_chaos_knight_4
+- "+8.0s Phantasm Duration"
+7652:
+- special_bonus_unique_ancient_apparition_7
+- 175 Chilling Touch Attack Range
+7653:
+- special_bonus_unique_chen_7
+- "-24s Hand of God Cooldown"
+7654:
+- special_bonus_unique_crystal_maiden_5
+- "-3.0s Crystal Nova Cooldown"
+7655:
+- special_bonus_unique_dark_willow_4
+- "+32 Bedlam Damage"
+7656:
+- special_bonus_unique_disruptor_6
+- Kinetic Field Grants True Sight
+7657:
+- special_bonus_unique_earth_spirit_5
+- "+3.0 Geomagnetic Grip Silence"
+7658:
+- special_bonus_unique_enigma_5
+- 
+7659:
+- special_bonus_unique_grimstroke_5
+- "+80 Ink Swell Max Damage"
+7660:
+- special_bonus_unique_jakiro_5
+- "+325 Dual Breath Range"
+7814:
+- seasonal_summon_penguin
+- 
+7828:
+- ad_special_bonus_gold_150_l
+- 
+7829:
+- ad_special_bonus_gold_250_l
+- 
+7830:
+- ad_special_bonus_gold_500_l
+- 
+7831:
+- ad_special_bonus_gold_750_l
+- 
+7832:
+- ad_special_bonus_gold_150_r
+- 
+7833:
+- ad_special_bonus_gold_250_r
+- 
+7834:
+- ad_special_bonus_gold_500_r
+- 
+7835:
+- ad_special_bonus_gold_750_r
+- 
+7836:
+- invoker_cold_snap_ad
+- 
+7837:
+- invoker_ghost_walk_ad
+- 
+7838:
+- invoker_tornado_ad
+- 
+7839:
+- invoker_emp_ad
+- 
+7840:
+- invoker_alacrity_ad
+- 
+7841:
+- invoker_sun_strike_ad
+- 
+7842:
+- invoker_forge_spirit_ad
+- 
+7843:
+- invoker_chaos_meteor_ad
+- 
+7844:
+- invoker_ice_wall_ad
+- 
+7845:
+- invoker_deafening_blast_ad
+- 
+8019:
+- seasonal_ti10_portal
+- 
+8020:
+- seasonal_ti10_disco_ball
+- 
+8021:
+- seasonal_ti10_disco_ball_channel
+- 
+8022:
+- seasonal_ti10_soccer_ball
+- 
+8023:
+- seasonal_ti10_hot_potato
+- 
+8024:
+- seasonal_ti10_hot_potato_throw_existing_potato
+- 
