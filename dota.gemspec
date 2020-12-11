@@ -19,8 +19,8 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "facets", "~> 3.0"
-  spec.add_dependency "faraday", "~> 0.9.1"
-  spec.add_dependency "faraday_middleware", "~> 0.9.1"
+  spec.add_dependency "faraday", "~> 1.1.0"
+  spec.add_dependency "faraday_middleware"
 
   spec.add_development_dependency "codeclimate-test-reporter",  "~> 0.5.0"
   spec.add_development_dependency "dotenv",  "~> 2.1"
