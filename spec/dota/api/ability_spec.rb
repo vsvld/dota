@@ -4,7 +4,7 @@ RSpec.describe Dota::API::Ability do
   specify ".all" do
     abilities = described_class.all
     expect(abilities.first).to be_a described_class
-    expect(abilities.count).to eq 1077
+    expect(abilities.count).to eq 1900
   end
 
   specify "#id" do
