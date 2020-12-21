@@ -3071,28 +3071,28 @@
 - roshan_halloween_fireball
 82:
 - bear_empty1
-- 
+-
 83:
 - bear_empty2
-- 
+-
 84:
 - courier_autodeliver
-- 
+-
 6251:
 - generic_hidden
-- 
+-
 6329:
 - courier_go_to_enemy_secretshop
-- 
+-
 6332:
 - special_bonus_intelligence_16
-- 
+-
 6333:
 - courier_go_to_sideshop
-- 
+-
 6334:
 - courier_go_to_sideshop2
-- 
+-
 6339:
 - dark_willow_bramble_maze
 - Bramble Maze
@@ -3113,13 +3113,13 @@
 - Swashbuckle
 6346:
 - pangolier_heartpiercer
-- 
+-
 6350:
 - special_bonus_unique_alchemist_2
 - "+400 Unstable Concoction Damage"
 6351:
 - special_bonus_hp_regen_30
-- 
+-
 6352:
 - special_bonus_unique_ancient_apparition_3
 - "-2.5s Ice Vortex Cooldown"
@@ -3128,7 +3128,7 @@
 - "-50s Mana Void Cooldown"
 6354:
 - special_bonus_unique_arc_warden_2
-- 
+-
 6355:
 - special_bonus_movement_speed_75
 - "+75 Movement Speed"
@@ -3185,10 +3185,10 @@
 - "+35% XP Gain"
 6373:
 - special_bonus_movement_speed_60
-- 
+-
 6375:
 - special_bonus_respawn_reduction_45
-- 
+-
 6377:
 - special_bonus_hp_600
 - "+600 Health"
@@ -3206,16 +3206,16 @@
 - "+40 Dual Breath Burn Damage"
 6382:
 - special_bonus_mp_600
-- 
+-
 6384:
 - special_bonus_cast_range_400
-- 
+-
 6385:
 - special_bonus_unique_kunkka_2
 - "+120 Torrent Damage"
 6386:
 - special_bonus_magic_resistance_35
-- 
+-
 6387:
 - special_bonus_unique_lich_3
 - "-4s Frost Blast Cooldown"
@@ -3233,7 +3233,7 @@
 - "+7 Split Shot Targets"
 6396:
 - special_bonus_attack_damage_55
-- 
+-
 6397:
 - special_bonus_unique_mirana_3
 - "-5s Sacred Arrow cooldown"
@@ -3260,7 +3260,7 @@
 - "+225 Health"
 6406:
 - special_bonus_agility_30
-- 
+-
 6407:
 - special_bonus_unique_queen_of_pain
 - 650 AoE Shadow Strike
@@ -3284,10 +3284,10 @@
 - "+30% Windrun Slow"
 6414:
 - special_bonus_unique_wraith_king_3
-- 
+-
 6415:
 - special_bonus_hp_700
-- 
+-
 6420:
 - special_bonus_unique_undying_2
 - "-2s Decay Cooldown"
@@ -3296,7 +3296,7 @@
 - "+75 Jingu Mastery Damage"
 6422:
 - special_bonus_movement_speed_100
-- 
+-
 6423:
 - special_bonus_hp_325
 - "+325 Health"
@@ -3305,7 +3305,7 @@
 - "+50 Echo Damage"
 6430:
 - special_bonus_agility_40
-- 
+-
 6444:
 - special_bonus_attack_speed_70
 - "+70 Attack Speed"
@@ -3326,7 +3326,7 @@
 - "-10s Press The Attack Cooldown"
 6459:
 - pangolier_gyroshell_stop
-- 
+-
 6461:
 - pangolier_shield_crash
 - Shield Crash
@@ -3353,10 +3353,10 @@
 - "+400 Ether Shock Damage"
 6503:
 - special_bonus_armor_20
-- 
+-
 6504:
 - special_bonus_mp_225
-- 
+-
 6505:
 - special_bonus_unique_warlock_4
 - Summons a Golem on death
@@ -3368,10 +3368,10 @@
 - "+500 Skewer Range"
 6508:
 - special_bonus_unique_lone_druid_5
-- 
+-
 6509:
 - special_bonus_unique_lina_4
-- 
+-
 6510:
 - special_bonus_unique_enigma_2
 - "+5 Malefice Instance"
@@ -3446,7 +3446,7 @@
 - "+40 Thunder Strike Damage"
 6537:
 - special_bonus_unique_wisp_2
-- 
+-
 6538:
 - special_bonus_unique_jakiro_3
 - Macropyre Pure and Pierces Immunity
@@ -3476,13 +3476,13 @@
 - 15% Spell Lifesteal
 6552:
 - special_bonus_unique_techies_2
-- 
+-
 6553:
 - special_bonus_attack_damage_400
-- 
+-
 6555:
 - special_bonus_attack_speed_140
-- 
+-
 6556:
 - special_bonus_attack_damage_250
 - "+250 Damage"
@@ -3506,10 +3506,10 @@
 - Reincarnation Casts Wraithfire Blast
 6567:
 - special_bonus_intelligence_14
-- 
+-
 6575:
 - special_bonus_spell_lifesteal_60
-- 
+-
 6600:
 - special_bonus_unique_lion_3
 - "+200 Finger of Death Damage"
@@ -3518,16 +3518,16 @@
 - "+75 Mist Coil Heal/Damage"
 6602:
 - special_bonus_unique_abaddon_3
-- 
+-
 6603:
 - special_bonus_cleave_20
-- 
+-
 6604:
 - special_bonus_unique_alchemist_3
 - "-0.2 Chemical Rage Base Attack Time"
 6605:
 - special_bonus_attack_speed_160
-- 
+-
 6606:
 - special_bonus_unique_antimage_3
 - "+400 Blink Cast Range"
@@ -3587,13 +3587,13 @@
 - "+1% Max Health Spirit Siphon"
 6629:
 - special_bonus_haste
-- 
+-
 6630:
 - special_bonus_unique_disruptor_4
 - "-10s Glimpse Cooldown"
 6631:
 - special_bonus_cleave_60
-- 
+-
 6633:
 - special_bonus_strength_40
 - "+40 Strength"
@@ -3611,10 +3611,10 @@
 - "+50% Magic Resistance"
 6645:
 - special_bonus_armor_30
-- 
+-
 6646:
 - special_bonus_spell_immunity
-- 
+-
 6647:
 - special_bonus_unique_ember_spirit_3
 - "+50 Flame Guard DPS"
@@ -3626,7 +3626,7 @@
 - "+70 Eidolon Damage"
 6650:
 - special_bonus_attack_speed_120
-- 
+-
 6651:
 - special_bonus_unique_faceless_void_2
 - "+175 Chronosphere AoE"
@@ -3641,7 +3641,7 @@
 - Global Call Down
 6655:
 - special_bonus_unique_huskar_3
-- 
+-
 6656:
 - special_bonus_unique_invoker_4
 - Cataclysm
@@ -3650,10 +3650,10 @@
 - "+35 Alacrity Damage/Speed"
 6659:
 - special_bonus_unique_wisp_3
-- 
+-
 6660:
 - special_bonus_hp_regen_80
-- 
+-
 6661:
 - special_bonus_unique_jakiro_4
 - "-60 Liquid Fire Attack Speed"
@@ -3671,7 +3671,7 @@
 - Ghostship Fleet
 6667:
 - special_bonus_unique_kunkka_4
-- 
+-
 6671:
 - special_bonus_unique_legion_commander_4
 - "+50 Overwhelming Odds Hero Damage"
@@ -3683,19 +3683,19 @@
 - "+50% Open Wounds Lifesteal"
 6677:
 - special_bonus_reincarnation_200
-- 
+-
 6678:
 - special_bonus_unique_lion_4
 - "+325 AoE Hex"
 6679:
 - special_bonus_unique_lone_druid_6
-- 
+-
 6680:
 - special_bonus_unique_lone_druid_7
 - Battle Cry Grants Spell Immunity
 6682:
 - special_bonus_unique_luna_3
-- 
+-
 6684:
 - special_bonus_unique_lycan_4
 - "+16% Feral Impulse Damage"
@@ -3704,7 +3704,7 @@
 - "+40% Chance Shapeshift Critical Strike"
 6686:
 - special_bonus_mp_1000
-- 
+-
 6687:
 - special_bonus_unique_medusa_3
 - "+20% Mystic Snake Mana Steal"
@@ -3722,7 +3722,7 @@
 - "-70 Moonlight Shadow Cooldown"
 6695:
 - special_bonus_mana_break_40
-- 
+-
 6696:
 - special_bonus_unique_monkey_king_3
 - "+400 Primal Spring Damage"
@@ -3752,13 +3752,13 @@
 - "+100 Agility"
 6706:
 - special_bonus_movement_speed_90
-- 
+-
 6707:
 - special_bonus_unique_ogre_magi_2
 - "+275 Fireblast Damage"
 6708:
 - special_bonus_strength_30
-- 
+-
 6709:
 - special_bonus_unique_omniknight_3
 - "-8s Heavenly Grace Cooldown"
@@ -3767,16 +3767,16 @@
 - "-5s Fate's Edict Cooldown"
 6711:
 - special_bonus_unique_outworld_devourer_2
-- 
+-
 6712:
 - special_bonus_unique_outworld_devourer_3
-- 
+-
 6720:
 - special_bonus_unique_elder_titan_3
 - "-75 Earth Splitter Cooldown"
 6721:
 - special_bonus_lifesteal_100
-- 
+-
 6730:
 - special_bonus_hp_regen_12
 - "+12 Health Regen"
@@ -3785,7 +3785,7 @@
 - Blink Uncontrollable Illusion
 6801:
 - special_bonus_cleave_25
-- 
+-
 6803:
 - special_bonus_unique_medusa_4
 - Split Shot Uses Modifiers
@@ -3824,10 +3824,10 @@
 - Attacking Procs Counter Helix
 6816:
 - special_bonus_mp_800
-- 
+-
 6817:
 - special_bonus_spell_lifesteal_6
-- 
+-
 6819:
 - special_bonus_unique_viper_3
 - Nethertoxin Silences
@@ -3836,19 +3836,19 @@
 - Poison Attack Affects Buildings
 6821:
 - special_bonus_unique_wraith_king_5
-- 
+-
 6822:
 - special_bonus_unique_wraith_king_6
 - "+35 Skeletons Attack Damage"
 6825:
 - special_bonus_mana_break_35
-- 
+-
 6826:
 - special_bonus_unique_bane_4
 - Enfeeble Steals Attack Speed
 6827:
 - special_bonus_cleave_100
-- 
+-
 6830:
 - special_bonus_mana_break_25
 - "+25 Mana Break"
@@ -3857,10 +3857,10 @@
 - Waveform Attacks Targets
 6845:
 - special_bonus_cleave_15
-- 
+-
 6846:
 - special_bonus_corruption_5
-- 
+-
 6847:
 - special_bonus_unique_phantom_assassin_2
 - "+5% Coup de Grace"
@@ -3923,13 +3923,13 @@
 - "+25% Shadow Poison Damage"
 6874:
 - special_bonus_magic_resistance_100
-- 
+-
 6875:
 - special_bonus_unique_nevermore_3
 - Presence Aura Affects Building
 6876:
 - special_bonus_unique_nevermore_4
-- 
+-
 6877:
 - special_bonus_unique_shadow_shaman_5
 - "-5s Hex Cooldown"
@@ -3944,7 +3944,7 @@
 - "+2s Global Silence"
 6882:
 - special_bonus_evasion_75
-- 
+-
 6884:
 - special_bonus_unique_skywrath_2
 - "+1 Arcane Bolt Per Cast"
@@ -3995,7 +3995,7 @@
 - "+800 Health"
 6906:
 - special_bonus_unique_storm_spirit_2
-- 
+-
 6907:
 - special_bonus_unique_storm_spirit_3
 - Overload Pierces Immunity
@@ -4019,7 +4019,7 @@
 - "+80 Static Remnant Damage"
 6920:
 - special_bonus_night_vision_400
-- 
+-
 6921:
 - special_bonus_unique_skywrath_5
 - "+600 Mystic Flare Damage"
@@ -4031,7 +4031,7 @@
 - Tether Grants Scepter Bonus
 6926:
 - special_bonus_mp_regen_175
-- 
+-
 6927:
 - special_bonus_unique_morphling_5
 - Morph Targets Allies
@@ -4049,7 +4049,7 @@
 - "-7s Tree Grab CD"
 6937:
 - tiny_toss_tree
-- 
+-
 6938:
 - special_bonus_unique_templar_assassin_3
 - "+200 Psionic Trap Damage"
@@ -4058,7 +4058,7 @@
 - Meld Dispels
 6940:
 - special_bonus_unique_templar_assassin_5
-- 
+-
 6942:
 - special_bonus_unique_terrorblade_2
 - "-8s Reflection Cooldown"
@@ -4115,7 +4115,7 @@
 - "-6s Ice Shards Cooldown"
 6965:
 - special_bonus_magic_resistance_80
-- 
+-
 6967:
 - special_bonus_unique_underlord_2
 - "+18 Firestorm Wave Damage"
@@ -4136,7 +4136,7 @@
 - "+6 Tombstone Attacks to Destroy"
 6973:
 - special_bonus_unique_ursa_2
-- 
+-
 6974:
 - special_bonus_unique_ursa_3
 - "+1.5s Enrage Duration"
@@ -4193,7 +4193,7 @@
 - "+35% Ministun Focus Fire"
 6993:
 - special_bonus_unique_windranger_5
-- 
+-
 6994:
 - special_bonus_unique_winter_wyvern_4
 - Splinter Blast 2s Stun
@@ -4220,7 +4220,7 @@
 - "+25% Backtrack"
 7002:
 - special_bonus_unique_shadow_demon_5
-- 
+-
 7005:
 - special_bonus_unique_tiny_5
 - Toss Requires No Target
@@ -4229,13 +4229,13 @@
 - "+75 Purification AoE"
 7011:
 - special_bonus_corruption_4
-- 
+-
 7012:
 - special_bonus_unique_lifestealer_3
 - "+1% Feast Damage/Lifesteal"
 7016:
 - special_bonus_unique_invoker_7
-- 
+-
 7017:
 - special_bonus_unique_invoker_8
 - "+1.25s Tornado Lift Time"
@@ -4271,13 +4271,13 @@
 - "+10% Mirror Image Damage"
 7030:
 - special_bonus_unique_ogre_magi_3
-- 
+-
 7034:
 - special_bonus_spell_block_15
 - 15s Spell Block
 7035:
 - special_bonus_spell_block_20
-- 
+-
 7036:
 - special_bonus_unique_lone_druid_9
 - 0 Entangle Cooldown
@@ -4301,10 +4301,10 @@
 - Parallel Wall
 7047:
 - special_bonus_unique_luna_4
-- 
+-
 7048:
 - special_bonus_unique_silencer_5
-- 
+-
 7050:
 - special_bonus_unique_ember_spirit_4
 - 2 Sleight of Fist Charges
@@ -4322,10 +4322,10 @@
 - "+0.25s Eclipse Lucent Ministun"
 7056:
 - special_bonus_unique_morphling_7
-- 
+-
 7057:
 - special_bonus_unique_puck_4
-- 
+-
 7058:
 - special_bonus_unique_templar_assassin_6
 - "+3 Psionic Traps"
@@ -4346,19 +4346,19 @@
 - "-60s Relocate Cooldown"
 7101:
 - special_bonus_unique_leshrac_4
-- 
+-
 7102:
 - special_bonus_unique_meepo_4
-- 
+-
 7103:
 - special_bonus_unique_treant_6
-- 
+-
 7104:
 - special_bonus_unique_arc_warden_3
 - "-1.5s Spark Wraith Cooldown"
 7105:
 - special_bonus_unique_arc_warden_4
-- 
+-
 7106:
 - special_bonus_unique_ancient_apparition_6
 - 900 AoE Cold Feet
@@ -4370,7 +4370,7 @@
 - 2x Skeletons Spawned
 7109:
 - special_bonus_cooldown_reduction_65
-- 
+-
 7110:
 - special_bonus_unique_necrophos_3
 - "+20% Ghost Shroud Slow"
@@ -4385,13 +4385,13 @@
 - "-20% Breathe Fire Damage Reduction"
 7114:
 - special_bonus_unique_dragon_knight_4
-- 
+-
 7115:
 - special_bonus_unique_treant_7
 - 700 AoE Living Armor
 7116:
 - visage_stone_form_self_cast
-- 
+-
 7117:
 - special_bonus_cast_range_275
 - "+275 Cast Range"
@@ -4409,25 +4409,25 @@
 - "+16% Scorched Earth Movement Speed"
 7124:
 - special_bonus_cleave_150
-- 
+-
 7125:
 - special_bonus_exp_boost_60
 - "+60% XP Gain"
 7130:
 - special_bonus_movement_speed_65
-- 
+-
 7131:
 - special_bonus_unique_kunkka_5
 - "-1.5s Tidebringer Cooldown"
 7132:
 - special_bonus_mp_regen_150
-- 
+-
 7133:
 - special_bonus_unique_ursa_6
 - Enrage gains 80% Status Resistance
 7140:
 - special_bonus_unique_huskar_4
-- 
+-
 7141:
 - special_bonus_unique_gyrocopter_6
 - "+0.5s Homing Missile Stun Duration"
@@ -4439,10 +4439,10 @@
 - Burning Spears Pure Damage
 7144:
 - special_bonus_unique_alchemist_5
-- 
+-
 7145:
 - special_bonus_50_crit_40
-- 
+-
 7148:
 - special_bonus_unique_invoker_9
 - "-12s Cold Snap Cooldown"
@@ -4457,7 +4457,7 @@
 - "+130% Cleave"
 7230:
 - beastmaster_call_of_the_wild_boar
-- 
+-
 7231:
 - beastmaster_call_of_the_wild_hawk
 - Call of the Wild Hawk
@@ -4478,7 +4478,7 @@
 - Lucky Shot
 7308:
 - lone_druid_spirit_bear_defender
-- 
+-
 7309:
 - lone_druid_spirit_link
 - Spirit Link
@@ -4487,10 +4487,10 @@
 - Cinder Brew
 7311:
 - lich_dark_sorcery
-- 
+-
 7312:
 - lich_frost_aura
-- 
+-
 7314:
 - antimage_counterspell
 - Counterspell
@@ -4511,7 +4511,7 @@
 - Tag Team
 7323:
 - omniknight_pacify
-- 
+-
 7325:
 - lich_sinister_gaze
 - Sinister Gaze
@@ -4520,7 +4520,7 @@
 - 375 AoE Mist Coil
 7340:
 - special_bonus_unique_abaddon_5
-- 
+-
 7350:
 - special_bonus_unique_elder_titan_4
 - Astral Spirit Grants Spell Immunity
@@ -4529,7 +4529,7 @@
 - "+2s Frost Shield Duration"
 7370:
 - special_bonus_attack_base_damage_45
-- 
+-
 7371:
 - special_bonus_unique_templar_assassin_7
 - 1.5s Meld Hit Bash
@@ -4577,13 +4577,13 @@
 - Ink Swell
 8203:
 - necronomicon_archer_purge
-- 
+-
 8340:
 - dark_willow_terrorize
 - Terrorize
 8351:
 - special_bonus_hp_regen_35
-- 
+-
 9060:
 - special_bonus_unique_pangolier_3
 - "+40 Swashbuckle Damage"
@@ -4622,10 +4622,10 @@
 - Arena Of Blood Grants Team +100 HP Regen
 7380:
 - special_bonus_unique_dragon_knight_5
-- 
+-
 7381:
 - special_bonus_unique_dragon_knight_6
-- 
+-
 7388:
 - special_bonus_unique_faceless_void_5
 - "-1s Time Walk"
@@ -4655,88 +4655,88 @@
 - special_bonus_cleave_175
 7804:
 - seasonal_throw_snowball
-- 
+-
 7806:
 - seasonal_summon_snowman
-- 
+-
 7807:
 - seasonal_decorate_tree
-- 
+-
 7809:
 - seasonal_festive_firework
-- 
+-
 7810:
 - frostivus2018_throw_snowball
-- 
+-
 7812:
 - frostivus2018_summon_snowman
-- 
+-
 7813:
 - frostivus2018_decorate_tree
-- 
+-
 7815:
 - frostivus2018_festive_firework
-- 
+-
 7816:
 - consumable_hidden
-- 
+-
 7817:
 - seasonal_summon_cny_balloon
-- 
+-
 7818:
 - seasonal_summon_dragon
-- 
+-
 7819:
 - seasonal_summon_cny_tree
-- 
+-
 7820:
 - seasonal_firecrackers
-- 
+-
 7821:
 - seasonal_summon_ti9_balloon
-- 
+-
 7822:
 - seasonal_ti9_banner
-- 
+-
 7823:
 - seasonal_ti9_instruments
-- 
+-
 7824:
 - seasonal_ti9_shovel
-- 
+-
 7825:
 - seasonal_ti9_monkey
-- 
+-
 7850:
 - tiny_tree_channel
-- 
+-
 7851:
 - spectre_haunt_single
-- 
+-
 7852:
 - grimstroke_scepter
-- 
+-
 7853:
 - templar_assassin_trap_teleport
-- 
+-
 7854:
 - arc_warden_scepter
-- 
+-
 7855:
 - clinkz_scepter
-- 
+-
 7859:
 - special_bonus_unique_dark_willow_3
 - special_bonus_unique_dark_willow_3
 7861:
 - special_bonus_unique_terrorblade_4
-- 
+-
 7864:
 - slardar_scepter
-- 
+-
 7865:
 - troll_warlord_scepter
-- 
+-
 7869:
 - special_bonus_unique_chen_5
 - special_bonus_unique_chen_5
@@ -4748,10 +4748,10 @@
 - special_bonus_mp_regen_250
 7878:
 - special_bonus_unique_clinkz_4
-- 
+-
 7888:
 - special_bonus_unique_windranger_7
-- 
+-
 7889:
 - special_bonus_unique_windranger_8
 - special_bonus_unique_windranger_8
@@ -4763,43 +4763,43 @@
 - special_bonus_unique_tusk_6
 7892:
 - special_bonus_unique_sniper_6
-- 
+-
 7936:
 - special_bonus_unique_storm_spirit_6
 - "+30 Overload Damage"
 7968:
 - high_five
-- 
+-
 9391:
 - special_bonus_unique_pangolier_7
 - "+300 Swashbuckle Slash Range"
 296:
 - tiny_craggy_exterior
-- 
+-
 314:
 - lone_druid_entangling_claws
-- 
+-
 315:
 - special_bonus_unique_invoker_11
 - "+2 Forged Spirit Armor Reduction"
 316:
 - riki_permanent_invisibility
-- 
+-
 318:
 - special_bonus_unique_lich_5
 - Chain Frost Unlimited Bounces
 319:
 - kunkka_torrent_storm
-- 
+-
 320:
 - enchantress_bunny_hop
-- 
+-
 321:
 - rattletrap_overclocking
-- 
+-
 322:
 - pudge_eject
-- 
+-
 323:
 - special_bonus_unique_vengeful_spirit_7
 - Vengeance Aura Illusion Casts Spells
@@ -4811,10 +4811,10 @@
 - "-5 Meat Hook Cooldown"
 333:
 - lycan_wolf_bite
-- 
+-
 337:
 - luna_lunar_grace
-- 
+-
 338:
 - treant_natures_grasp
 - Nature's Grasp
@@ -4883,7 +4883,7 @@
 - "+8 Mortimer Kisses Launched"
 6487:
 - special_bonus_unique_snapfire_2
-- 
+-
 6488:
 - snapfire_lil_shredder
 - Lil' Shredder
@@ -4895,7 +4895,7 @@
 - "+25% Mortimer Kisses Movement Slow"
 6991:
 - special_bonus_unique_axe_4
-- 
+-
 7701:
 - void_spirit_aether_remnant
 - Aether Remnant
@@ -4907,7 +4907,7 @@
 - "-7 Astral Step Charge Restore Time"
 7707:
 - special_bonus_unique_void_spirit_2
-- 
+-
 7708:
 - special_bonus_unique_void_spirit_3
 - Dissimilate Stuns for 3.0s
@@ -4919,10 +4919,10 @@
 - Resonant Pulse
 7711:
 - special_bonus_unique_void_spirit_5
-- 
+-
 7712:
 - special_bonus_unique_void_spirit_6
-- 
+-
 7713:
 - special_bonus_unique_void_spirit_7
 - Remnant Provides 600 Truesight
@@ -4931,13 +4931,13 @@
 - Astral Step 200% Crit
 7715:
 - special_bonus_unique_void_spirit_9
-- 
+-
 7826:
 - courier_queue_pickup_from_stash
-- 
+-
 7827:
 - courier_dequeue_pickup_from_stash
-- 
+-
 7893:
 - special_bonus_attack_speed_175
 - "+175 Attack Speed"
@@ -4949,22 +4949,22 @@
 - "-30s Burning Army Cooldown"
 7896:
 - special_bonus_lifesteal_40
-- 
+-
 7897:
 - special_bonus_unique_wisp_7
-- 
+-
 7898:
 - special_bonus_unique_tinker_4
-- 
+-
 7899:
 - special_bonus_cleave_35
-- 
+-
 7911:
 - special_bonus_unique_windranger_10
-- 
+-
 8005:
 - special_bonus_gold_income_210
-- 
+-
 8010:
 - special_bonus_unique_drow_ranger_5
 - "+50% Gust Blind"
@@ -4973,7 +4973,7 @@
 - 35% Lifesteal
 8017:
 - special_bonus_attack_damage_160
-- 
+-
 8018:
 - special_bonus_mana_reduction_11
 - "+11% Manacost/Manaloss Reduction"
@@ -4982,16 +4982,16 @@
 - Multishot
 393:
 - roshan_halloween_levels
-- 
+-
 394:
 - roshan_halloween_summon
-- 
+-
 395:
 - roshan_halloween_fireball
-- 
+-
 401:
 - special_bonus_unique_lion_5
-- 
+-
 402:
 - special_bonus_unique_nyx_4
 - "+0.25s Impale Stun Duration"
@@ -5015,7 +5015,7 @@
 - "+0.8s Dismember Duration"
 409:
 - special_bonus_attack_speed_55
-- 
+-
 410:
 - special_bonus_unique_silencer_6
 - "+20% Arcane Curse Slow"
@@ -5042,7 +5042,7 @@
 - "+1.0% Cold Embrace Heal"
 419:
 - juggernaut_swift_slash
-- 
+-
 420:
 - special_bonus_unique_dark_seer_5
 - "+75 Ion Shell Radius"
@@ -5060,22 +5060,22 @@
 - "+3 Overpower Attacks"
 425:
 - terrorblade_terror_wave
-- 
+-
 426:
 - special_bonus_unique_phoenix_7
 - Sun Ray During Supernova
 427:
 - special_bonus_attack_damage_75
-- 
+-
 428:
 - special_bonus_cooldown_reduction_6
-- 
+-
 429:
 - special_bonus_hp_475
 - "+475 Health"
 430:
 - special_bonus_cast_range_325
-- 
+-
 431:
 - special_bonus_evasion_40
 - 40% Evasion
@@ -5093,19 +5093,19 @@
 - "+80 Agility"
 436:
 - special_bonus_mana_break_15
-- 
+-
 437:
 - special_bonus_strength_11
 - "+11 Strength"
 438:
 - special_bonus_mp_275
-- 
+-
 439:
 - special_bonus_corruption_25
-- 
+-
 440:
 - special_bonus_mana_reduction_11
-- 
+-
 441:
 - special_bonus_spell_lifesteal_25
 - 25% Spell Lifesteal
@@ -5114,16 +5114,16 @@
 - "+80 Damage"
 443:
 - special_bonus_cast_range_225
-- 
+-
 444:
 - special_bonus_spell_amplify_11
 - "+11% Spell Amplification"
 445:
 - special_bonus_30_crit_2
-- 
+-
 446:
 - special_bonus_agility_5
-- 
+-
 447:
 - special_bonus_strength_16
 - "+16 Strength"
@@ -5135,10 +5135,10 @@
 - Gains Reincarnation 300 CD
 450:
 - special_bonus_attack_base_damage_25
-- 
+-
 451:
 - special_bonus_evasion_8
-- 
+-
 452:
 - special_bonus_evasion_16
 - 16% Evasion
@@ -5147,16 +5147,16 @@
 - "-20s Stampede Cooldown"
 454:
 - special_bonus_agility_7
-- 
+-
 455:
 - special_bonus_cleave_140
-- 
+-
 456:
 - special_bonus_spell_amplify_16
 - "+16% Spell Amplification"
 457:
 - special_bonus_night_vision_800
-- 
+-
 458:
 - special_bonus_hp_650
 - "+650 Health"
@@ -5177,7 +5177,7 @@
 - "-6.0s Overwhelming Odds Cooldown"
 464:
 - special_bonus_unique_lifestealer_4
-- 
+-
 465:
 - special_bonus_unique_lion_6
 - "+15% Mana Drain Slow"
@@ -5222,10 +5222,10 @@
 - "+8s Conjure Image Duration"
 480:
 - special_bonus_unique_night_stalker_3
-- 
+-
 481:
 - special_bonus_attack_range_275
-- 
+-
 482:
 - special_bonus_unique_bloodseeker_5
 - special_bonus_unique_bloodseeker_5
@@ -5243,16 +5243,16 @@
 - special_bonus_attack_damage_16
 488:
 - special_bonus_attack_damage_18
-- 
+-
 489:
 - special_bonus_agility_and_intelligence_6
-- 
+-
 490:
 - special_bonus_unique_phantom_assassin_6
 - special_bonus_unique_phantom_assassin_6
 491:
 - special_bonus_unique_phantom_assassin_5
-- 
+-
 492:
 - special_bonus_unique_troll_warlord_5
 - special_bonus_unique_troll_warlord_5
@@ -5261,7 +5261,7 @@
 - special_bonus_unique_vengeful_spirit_8
 494:
 - special_bonus_unique_clinkz_7
-- 
+-
 495:
 - special_bonus_unique_clinkz_8
 - special_bonus_unique_clinkz_8
@@ -5300,7 +5300,7 @@
 - special_bonus_unique_beastmaster_5
 507:
 - special_bonus_unique_pudge_7
-- 
+-
 508:
 - special_bonus_unique_grimstroke_6
 - special_bonus_unique_grimstroke_6
@@ -5336,7 +5336,7 @@
 - special_bonus_unique_rubick_6
 519:
 - special_bonus_unique_skywrath_7
-- 
+-
 520:
 - special_bonus_unique_enigma_7
 - special_bonus_unique_enigma_7
@@ -5345,7 +5345,7 @@
 - special_bonus_unique_enigma_8
 522:
 - special_bonus_spell_amplify_7
-- 
+-
 523:
 - special_bonus_unique_clinkz_10
 - special_bonus_unique_clinkz_10
@@ -5405,7 +5405,7 @@
 - special_bonus_unique_phantom_lancer_6
 567:
 - special_bonus_unique_razor_5
-- 
+-
 568:
 - special_bonus_cooldown_reduction_14
 - special_bonus_cooldown_reduction_14
@@ -5420,19 +5420,19 @@
 - special_bonus_unique_razor_6
 587:
 - windrunner_focusfire_cancel
-- 
+-
 4000:
 - seasonal_ti10_high_five
-- 
+-
 4001:
 - seasonal_ti10_guild_banner
-- 
+-
 6484:
 - snapfire_gobble_up
-- 
+-
 6486:
 - snapfire_spit_creep
-- 
+-
 7651:
 - special_bonus_unique_chaos_knight_4
 - "+8.0s Phantasm Duration"
@@ -5456,7 +5456,7 @@
 - "+3.0 Geomagnetic Grip Silence"
 7658:
 - special_bonus_unique_enigma_5
-- 
+-
 7659:
 - special_bonus_unique_grimstroke_5
 - "+80 Ink Swell Max Damage"
@@ -5465,76 +5465,487 @@
 - "+325 Dual Breath Range"
 7814:
 - seasonal_summon_penguin
-- 
+-
 7828:
 - ad_special_bonus_gold_150_l
-- 
+-
 7829:
 - ad_special_bonus_gold_250_l
-- 
+-
 7830:
 - ad_special_bonus_gold_500_l
-- 
+-
 7831:
 - ad_special_bonus_gold_750_l
-- 
+-
 7832:
 - ad_special_bonus_gold_150_r
-- 
+-
 7833:
 - ad_special_bonus_gold_250_r
-- 
+-
 7834:
 - ad_special_bonus_gold_500_r
-- 
+-
 7835:
 - ad_special_bonus_gold_750_r
-- 
+-
 7836:
 - invoker_cold_snap_ad
-- 
+-
 7837:
 - invoker_ghost_walk_ad
-- 
+-
 7838:
 - invoker_tornado_ad
-- 
+-
 7839:
 - invoker_emp_ad
-- 
+-
 7840:
 - invoker_alacrity_ad
-- 
+-
 7841:
 - invoker_sun_strike_ad
-- 
+-
 7842:
 - invoker_forge_spirit_ad
-- 
+-
 7843:
 - invoker_chaos_meteor_ad
-- 
+-
 7844:
 - invoker_ice_wall_ad
-- 
+-
 7845:
 - invoker_deafening_blast_ad
-- 
+-
 8019:
 - seasonal_ti10_portal
-- 
+-
 8020:
 - seasonal_ti10_disco_ball
-- 
+-
 8021:
 - seasonal_ti10_disco_ball_channel
-- 
+-
 8022:
 - seasonal_ti10_soccer_ball
-- 
+-
 8023:
 - seasonal_ti10_hot_potato
-- 
+-
 8024:
 - seasonal_ti10_hot_potato_throw_existing_potato
-- 
+-
+524:
+- special_bonus_attack_base_damage_15
+-
+525:
+- special_bonus_unique_magnus_6
+- "+0.3s Shockwave Slow Duration"
+528:
+- special_bonus_intelligence_75
+- "+75 Intelligence"
+529:
+- special_bonus_unique_chen_8
+- "+12% Penitence Slow"
+532:
+- keeper_of_the_light_radiant_bind
+- Solar Bind
+535:
+- tinker_shrink_ray
+-
+536:
+- shadow_shaman_serpentine
+-
+537:
+- brewmaster_primal_split_cancel
+-
+538:
+- magnataur_greater_shockwave
+-
+539:
+- leshrac_greater_lightning_storm
+- Nihilism
+542:
+- special_bonus_unique_jakiro_7
+-
+543:
+- antimage_mana_overload
+- Blink Fragment
+545:
+- special_bonus_unique_mars_rebuke_cooldown
+- "-4.0s God's Rebuke Cooldown"
+546:
+- special_bonus_unique_meepo_5
+- "+1 Divided We Stand Clone"
+547:
+- meepo_petrify
+- Dig
+549:
+- special_bonus_base_attack_rate_1
+-
+550:
+- riki_poison_dart
+- Sleeping Dart
+551:
+- special_bonus_unique_chen_9
+-
+552:
+- omniknight_angelic_flight
+-
+553:
+- jakiro_liquid_ice
+- Liquid Frost
+561:
+- grimstroke_ink_over
+- Ink Over
+572:
+- special_bonus_unique_batrider_5
+- 2 Flamebreak Charges
+579:
+- dazzle_rain_of_vermin
+-
+580:
+- special_bonus_unique_drow_ranger_7
+- "-4.0s Gust Cooldown"
+581:
+- centaur_overrun
+-
+590:
+- special_bonus_unique_queen_of_pain_3
+-
+591:
+- special_bonus_unique_dark_seer_8
+-
+592:
+- venomancer_area_poison
+-
+594:
+- special_bonus_unique_doom_8
+-
+595:
+- crystal_maiden_let_it_go
+-
+601:
+- special_bonus_unique_naga_siren_5
+- "-30s Song of the Siren Cooldown"
+602:
+- beastmaster_mark_of_the_beast
+- beastmaster_mark_of_the_beast
+605:
+- kunkka_tidal_wave
+- Tidal Wave
+611:
+- special_bonus_unique_zeus_4
+- "+100 Thundergod's Wrath Damage"
+613:
+- special_bonus_unique_beastmaster_6
+- "+{s:bonus_hp} Health Beastmaster Controlled"
+614:
+- special_bonus_unique_clockwerk_6
+- Spell Immunity Inside Power Cogs
+615:
+- special_bonus_unique_centaur_6
+-
+616:
+- special_bonus_unique_undying_6
+- "+10 Soul Rip Damage/Heal"
+617:
+- special_bonus_unique_clinkz_12
+- "-10.0s Strafe Cooldown"
+618:
+- special_bonus_unique_meepo_6
+- "+8 Ransack Health Steal"
+619:
+- special_bonus_unique_invoker_12
+-
+620:
+- special_bonus_unique_enigma_9
+- "+150 Midnight Pulse Radius"
+621:
+- special_bonus_unique_lycan_6
+- "+75 Shapeshift Movement Speed"
+622:
+- naga_siren_crit
+-
+623:
+- special_bonus_attack_base_damage_100
+- "+100 Base Damage"
+624:
+- special_bonus_unique_keeper_of_the_light_10
+- "+1.2s Blinding Light Stun"
+625:
+- furion_greater_sprout
+-
+626:
+- special_bonus_unique_visage_7
+-
+627:
+- special_bonus_unique_storm_spirit_7
+- 2x Overload Attack Bounce
+628:
+- special_bonus_unique_juggernaut_5
+- "-20.0s Healing Ward Cooldown"
+629:
+- special_bonus_unique_queen_of_pain_4
+- "+200 Sonic Wave Damage"
+630:
+- rattletrap_jetpack
+- Jetpack
+631:
+- life_stealer_ghoul_frenzy
+- Ghoul Frenzy
+632:
+- witch_doctor_voodoo_switcheroo
+- Voodoo Switcheroo
+634:
+- special_bonus_unique_phantom_lancer_7
+-
+636:
+- special_bonus_mp_regen_amp_10
+-
+639:
+- broodmother_silken_bola
+- Silken Bola
+641:
+- zuus_heavenly_jump
+- Heavenly Jump
+642:
+- alchemist_berserk_potion
+- Berserk Potion
+643:
+- bristleback_hairball
+- Hairball
+644:
+- special_bonus_unique_dark_seer_10
+-
+645:
+- special_bonus_unique_viper_5
+- "-11.0s Nethertoxin Cooldown"
+646:
+- special_bonus_unique_brewmaster_6
+- Brewlings Gain Drunken Brawler Passive
+647:
+- rubick_telekinesis_land_self
+-
+648:
+- ogre_magi_smash
+- Fire Shield
+649:
+- magnataur_horn_toss
+- Horn Toss
+650:
+- tinker_defense_matrix
+- Defense Matrix
+651:
+- shredder_flamethrower
+- Flamethrower
+652:
+- windrunner_gale_force
+-
+654:
+- special_bonus_unique_brewmaster_5
+- "+{s:value_tooltip}% Cinder Brew Damage/Duration"
+656:
+- omniknight_hammer_of_purity
+- Hammer of Purity
+657:
+- special_bonus_unique_keeper_of_the_light_8
+- "+30% Blinding Light Miss"
+658:
+- special_bonus_unique_batrider_6
+- "-35.0s Flaming Lasso Cooldown"
+659:
+- special_bonus_unique_bristleback_4
+-
+660:
+- dragon_knight_fireball
+- Fireball
+661:
+- necrolyte_death_seeker
+- Death Seeker
+662:
+- phantom_assassin_fan_of_knives
+- Fan of Knives
+663:
+- special_bonus_unique_underlord_7
+- "+2 Firestorm Wave Count"
+664:
+- special_bonus_unique_keeper_of_the_light_11
+- "+15.0s Spirit Form Duration"
+665:
+- special_bonus_unique_antimage_6
+- "+0.1s Mana Void Damage Multiplier"
+666:
+- special_bonus_unique_antimage_7
+-
+667:
+- special_bonus_unique_shadow_demon_8
+-
+668:
+- slark_fish_bait
+- Fish Bait
+669:
+- special_bonus_unique_keeper_of_the_light_9
+-
+670:
+- special_bonus_unique_axe_6
+-
+671:
+- special_bonus_unique_bane_6
+-
+672:
+- special_bonus_unique_bane_7
+-
+673:
+- special_bonus_unique_sven_5
+- "+4.0s Warcry Duration"
+681:
+- special_bonus_unique_oracle_8
+- "-50% Purifying Flames Allied Damage"
+682:
+- storm_spirit_electric_rave
+- Electric Rave
+683:
+- visage_silent_as_the_grave
+-
+684:
+- special_bonus_unique_winter_wyvern_6
+-
+685:
+- special_bonus_unique_arc_warden_6
+- "+12.0s Tempest Double Duration"
+687:
+- dark_seer_normal_punch
+- Normal Punch
+688:
+- special_bonus_unique_huskar_7
+- "-3.0s Life Break Cooldown"
+689:
+- special_bonus_unique_dark_seer_9
+-
+690:
+- special_bonus_unique_dark_seer_11
+-
+693:
+- brewmaster_void_astral_pulse
+-
+694:
+- sniper_concussive_grenade
+- Concussive Grenade
+695:
+- special_bonus_unique_slardar_6
+-
+696:
+- special_bonus_unique_centaur_7
+- "+1.0s Stampede Duration"
+697:
+- special_bonus_unique_dark_seer_12
+- "+1.0s Wall of Replica Slow"
+698:
+- special_bonus_unique_death_prophet_5
+- "-20.0s Spirit Siphon Replenish Time"
+699:
+- terrorblade_demon_zeal
+- Demon Zeal
+700:
+- beastmaster_hawk_dive
+-
+701:
+- medusa_cold_blooded
+- Cold Blooded
+702:
+- special_bonus_unique_mirana_5
+-
+703:
+- special_bonus_attack_damage_252
+- special_bonus_attack_damage_252
+704:
+- special_bonus_unique_troll_warlord_7
+- special_bonus_unique_troll_warlord_7
+705:
+- special_bonus_unique_grimstroke_7
+- "-4.0s Ink Swell Cooldown"
+709:
+- special_bonus_unique_lifestealer_6
+- "+8% Ghoul Frenzy Slow"
+711:
+- special_bonus_unique_lone_druid_12
+-
+712:
+- special_bonus_unique_magnus_7
+- "-5.0s Skewer Cooldown"
+715:
+- special_bonus_unique_queen_of_pain_5
+-
+721:
+- special_bonus_unique_silencer_7
+-
+724:
+- special_bonus_unique_invoker_13
+- "+40 DPS Ice Wall"
+726:
+- special_bonus_hp_375
+- "+375 Health"
+734:
+- special_bonus_unique_sven_6
+-
+738:
+- special_bonus_mp_regen_125
+- special_bonus_mp_regen_125
+741:
+- special_bonus_unique_wraith_king_10
+- "-2.0s Mortal Strike Cooldown"
+754:
+- special_bonus_unique_tidehunter_5
+-
+8025:
+- seasonal_diretide2020_high_five
+-
+8026:
+- special_bonus_unique_phantom_assassin_8
+-
+8027:
+- pangolier_rollup
+- Roll Up
+8028:
+- lich_ice_spire
+- Ice Spire
+8029:
+- pangolier_rollup_stop
+-
+8030:
+- faceless_void_time_walk_reverse
+- faceless_void_time_walk_reverse
+8106:
+- hoodwink_sharpshooter
+- Sharpshooter
+8158:
+- hoodwink_bushwhack
+- Bushwhack
+8159:
+- hoodwink_sharpshooter_release
+-
+8429:
+- hoodwink_acorn_shot
+- Acorn Shot
+9501:
+- hoodwink_scurry
+- Scurry
+9505:
+- special_bonus_unique_hoodwink_camouflage
+- Scurry Camouflage
+9506:
+- special_bonus_unique_hoodwink_sharpshooter_speed
+- "{s:pct_change}% Sharpshooter Faster Projectile / Charge Time"
+9507:
+- special_bonus_unique_hoodwink_sharpshooter_pure_damage
+- Sharpshooter Pure Damage and Pierces Spell Immunity
+9509:
+- special_bonus_unique_hoodwink_acorn_shot_charges
+- 2 Acorn Shot Charges
+9510:
+- special_bonus_unique_hoodwink_bushwhack_cooldown
+- "-3.0s Bushwhack Cooldown"
