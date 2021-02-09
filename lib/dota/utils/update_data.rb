@@ -44,9 +44,12 @@ module Dota
           heroes = JSON.parse(res.body)
 
           heroes.each do |hero|
-              next if heroes_yml.dig(hero['id'])
-              name = hero['name'].sub('npc_dota_hero_', '')
-              heroes_yml[hero['id']] = [name, hero['localized_name']]
+            hero_yml       = heroes_yml.dig(hero['id'])
+            name           = hero['name'].sub('npc_dota_hero_', '')
+            localized_name = hero['localized_name']
+
+            next if hero_yml&.last == localized_name
+            heroes_yml[hero['id']] = [name, localized_name]
           end
 
           File.open(file_url, 'w') { |f| f.write heroes_yml.to_yaml }
